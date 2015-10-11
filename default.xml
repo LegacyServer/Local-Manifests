@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<!-- common -->
+<project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-12.1" />
+<!--<project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" remote="github" revision="cm-12.1" />-->
+<project path="device/motorola/msm8226-common" name="CyanogenMod/android_device_motorola_msm8226-common" remote="github" revision="cm-12.1" />
+
+<!-- armani Specific -->
+<project path="kernel/xiaomi/armani" name="armani-dev/android_kernel_xiaomi_armani" remote="github" revision="cm-12.1" />
+<project path="device/xiaomi/armani" name="TV-LP51-Devices/device_xiaomi_armani" remote="github" revision="lp5.1" />
+<project path="vendor/xiaomi" name="armani-dev/proprietary_vendor_xiaomi" remote="github" revision="cm-12.1" />
+
+<!-- titan Specific -->
+<project path="device/motorola/titan" name="TV-LP51-Devices/device_motorola_titan" remote="github" revision="lp5.1" />
+<project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" remote="github" revision="cm-12.1" />
+<project path="kernel/motorola/msm8226" name="CyanogenMod/android_kernel_motorola_msm8226" remote="github" revision="cm-12.1" />
+
+<!-- falcon Specific -->
+<project path="device/motorola/falcon" name="TV-LP51-Devices/device_motorola_falcon" remote="github" revision="lp5.1" />
+
+<!-- Thea specific -->
+<project path="device/motorola/thea" name="TV-LP51-Devices/device_motorola_thea" remote="github" revision="validus" />
+
+<!--Osprey specific -->
+<project name="TV-LP51-Devices/android_device_motorola_osprey" path="device/motorola/osprey" remote="github" revision="validus" />
+<project name="sultanqasim/android_kernel_motorola_msm8916" path="kernel/motorola/msm8916" remote="github" revision="cm-12.1" />
+
+<!--Sprout specific -->
+<project path="device/google/sprout-common" name="CyanogenMod/android_device_google_sprout-common" remote="github" revision="cm-12.1" />
+<project path="device/google/sprout4" name="hafeez90/android_device_google_sprout4" remote="github" revision="validus" />
+<project path="device/google/sprout8" name="hafeez90/android_device_google_sprout8" remote="github" revision="validus" />
+<project path="kernel/mediatek/sprout" name="CyanogenMOd/android_kernel_mediatek_sprout" remote="github" revision="cm-12.1" />
+<project path="vendor/google" name="TheMuppets/proprietary_vendor_google" remote="github" revision="cm-12.1" />
+<project path="packages/apps/FMRadio" name="CyanogenMod/android_packages_apps_FMRadio" remote="github" revision="cm-12.1" />
+
+<!-- Tomato -->
+<project name="TV-LP51-Devices/device_yu_tomato" path="device/yu/tomato" remote="github" revision="lp5.1" />
+
+<!-- Yu -->
+<project path="kernel/cyanogen/msm8916" name="CyanogenMod/android_kernel_cyanogen_msm8916" remote="github" revision="cm-12.1-amss-1.0.2" />
+<project path="vendor/yu" name="Sohamlad7/proprietary_vendor_yu" remote="github" revision="io-1.0" />
+<project path="external/mm-dash" name="CyanogenMod/android_external_mm-dash" remote="github" revision="cm-12.1" />
+<project path="device/cyanogen/msm8939-common" name="CyanogenMod/android_device_cyanogen_msm8939-common" remote="github" revision="cm-12.1" />
+
+</manifest>
+
