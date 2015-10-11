@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="Tesla-Redux-Devices/device_xiaomi_armani" path="device/xiaomi/armani" remote="github" revision="lp5.1" />
+  <project name="armani-dev/android_kernel_xiaomi_armani" path="kernel/xiaomi/armani" remote="github" revision="cm-12.1" />
+  <project name="armani-dev/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="cm-12.1" />
+  <project name="CyanogenMod/android_hardware_qcom_fm" path="hardware/qcom/fm" remote="github" revision="cm-12.1" />
+  <project name="Tesla-Redux-Devices/device_motorola_falcon" path="device/motorola/falcon" remote="github" revision="lp5.1" />
+  <project name="Tesla-Redux-Devices/device_motorola_msm8226-common" path="device/motorola/msm8226-common" remote="github" revision="lp5.1" />
+  <project name="CyanogenMod/android_kernel_motorola_msm8226" path="kernel/motorola/msm8226" remote="github" revision="cm-12.1" />
+  <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="cm-12.1" />
+  <project name="Tesla-Redux-Devices/device_motorola_condor" path="device/motorola/condor" remote="github" revision="lp5.1" />
+  <project name="CyanogenMod/android_kernel_motorola_msm8610" path="kernel/motorola/msm8610" remote="github" revision="cm-12.1" />
+  <project name="Tesla-Redux-Devices/device_motorola_titan" path="device/motorola/titan" remote="github" revision="lp5.1" />
+  <project name="Tesla-Redux-Devices/android_device_motorola_thea" path="device/motorola/thea" remote="github" revision="lp5.1" />
+  <project name="Tesla-Redux-Devices/android_device_motorola_osprey" path="device/motorola/osprey" remote="github" revision="tesla" />
+  <project name="sultanqasim/android_kernel_motorola_msm8916" path="kernel/motorola/msm8916" remote="github" revision="cm-12.1" />
+  <project name="CyanogenMod/android_external_bson" path="external/bson" remote="github" revision="cm-12.1" />
+  <project name="CyanogenMod/android_external_mm-dash" path="external/mm-dash" remote="github" revision="cm-12.1" />
+</manifest>
