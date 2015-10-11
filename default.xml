@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<!--Vendors-->
+<project path="vendor/xiaomi" name="armani-dev/proprietary_vendor_xiaomi" remote="github" revision="cm-12.1" />
+<project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="github" revision="cm-12.1"/>
+
+<!--Devices-->
+<project path="device/xiaomi/armani" name="sud-vastav/device_xiaomi_armani" remote="github" revision="candy" />
+<project path="device/sony/taoshan" name="Sohamlad7/android_device_sony_taoshan-1" remote="github" revision="c5.1" />
+
+<!--Devices commons-->
+<project path="device/sony/common" name="CyanogenMod/android_device_sony_common" remote="github" revision="cm-12.1" />
+<project path="device/sony/qcom-common" name="CyanogenMod/android_device_sony_qcom-common" remote="github" revision="cm-12.0" />
+
+<!--Kernels-->
+<project path="kernel/xiaomi/armani" name="armani-dev/android_kernel_xiaomi_armani" remote="github" revision="cm-12.1" />
+<project path="kernel/sony/msm8930" name="Sohamlad7/android_kernel_sony_msm8930" remote="github" revision="cm-12.1" />
+
+<!--Sony sensors-->
+<project path="hardware/sony/DASH" name="CyanogenMod/android_hardware_sony_DASH" remote="github" revision="cm-12.1" />
+
+<!--Osprey-->
+<project name="koradiavatsal/android_device_motorola_osprey" path="device/motorola/osprey" remote="github" revision="candy5" />
+<project name="sultanqasim/android_kernel_motorola_msm8916" path="kernel/motorola/msm8916" remote="github" revision="cm-12.1" />
+<project name="CyanogenMod/android_external_mm-dash" path="external/mm-dash" remote="github" />
+<project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="cm-12.1" />
+<project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" name="UBERTC/arm-eabi-4.9" remote="bb" revision="master" />
+
+<!--Rhine-->
+<project name="CyanogenMod/android_device_sony_togari" path="device/sony/togari" remote="github" revision="cm-12.1" />
+<project name="CyanogenMod/android_device_sony_amami" path="device/sony/amami" remote="github" revision="cm-12.1" />
+<project name="CyanogenMod/android_device_sony_togari_gpe" path="device/sony/togari_gpe" remote="github" revision="cm-12.1" />
+<project name="AOSPA-L/android_kernel_sony_msm8974" path="kernel/sony/msm8974" remote="github" revision="lollipop-mr1" />
+<!--  <project name="TheMuppets/proprietary_vendor_sony" path="vendor/sony" remote="github" revision="cm-12.1" /> 
+<project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-12.1" /> -->
+<project name="CyanogenMod/android_device_sony_rhine-common" path="device/sony/rhine-common" remote="github" revision="cm-12.1" />
+<!--  <project name="CyanogenMod/android_device_sony_common" path="device/sony/common" remote="github" revision="cm-12.1" />-->
+<project name="CyanogenMod/android_device_sony_msm8974-common" path="device/sony/msm8974-common" remote="github" revision="cm-12.1" />
+<project name="CyanogenMod/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="cm-12.1" />
+
+</manifest>
