@@ -1,2 +1,2 @@
 # Local-Manifests
-All server manifests of common go here :) 
+All server manifests of ResurrectionRemix common go here :) 
